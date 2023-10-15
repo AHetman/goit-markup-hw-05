@@ -771,30 +771,7 @@ img {
   
 }
 
-/*.check-text {
-  color: #8e8f99;
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  display: flex;
-  align-items: center;
-  position: relative;
-  margin-bottom: 24px;
-}
 
-.check-text span {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 16px;
-  height: 16px;
-  border-radius: 2px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  margin-right: 8px;
-  fill: transparent;
-}
-
-}*/
 
 .check-text {
   color: #8e8f99;
